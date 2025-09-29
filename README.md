@@ -34,10 +34,10 @@ python main.py
 ## I used Python 3.10.9 for this project, so the dlib file will varry system to system.
 
 
-##📌 Applications
+## 📌 Applications
    -Schools & Colleges for student attendance
    -Offices for employee attendance
    -Events & Conferences for participant check-in
 
-##📄 License
+## 📄 License
 This project is open-source. You are free to use and modify it for educational purposes
