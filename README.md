@@ -1,4 +1,4 @@
-# verbose-system -  🎓 A Face Recognition Based Attendance Monitoring System  
+# verbose -  🎓 A Face Recognition Based Attendance Monitoring System  
 
 A **smart attendance system** that uses **face recognition** to mark and store attendance automatically. Built with **Python, OpenCV, and Tkinter**, it provides a user-friendly interface to register students, capture facial data, and update attendance records in real-time.  
 
@@ -34,10 +34,10 @@ python main.py
 ## I used Python 3.10.9 for this project, so the dlib file will varry system to system.
 
 
-📌 ##Applications##
+##📌 Applications
    -Schools & Colleges for student attendance
    -Offices for employee attendance
    -Events & Conferences for participant check-in
 
-📄 ##License##
+##📄 License
 This project is open-source. You are free to use and modify it for educational purposes
