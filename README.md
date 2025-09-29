@@ -18,22 +18,26 @@ A **smart attendance system** that uses **face recognition** to mark and store a
 - **CSV / Excel** for data storage  
 
 ## 🚀 How to Run
-1. Clone this repository:  
-   git clone https://github.com/YOUR-USERNAME/Face-Recognition-Attendance-System.git
-2. Navigate to the project folder:
- cd Face-Recognition-Attendance-System
-3. Install dependencies:
-  pip install -r commands.txt
-4. Run the application:
-   python main.py
+
+# Clone this repository
+git clone https://github.com/YOUR-USERNAME/Face-Recognition-Attendance-System.git
+
+# Navigate to the project folder
+cd Face-Recognition-Attendance-System
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+python main.py
 
 ## I used Python 3.10.9 for this project, so the dlib file will varry system to system.
 
 
-📌 Applications
+📌 ##Applications##
    -Schools & Colleges for student attendance
    -Offices for employee attendance
    -Events & Conferences for participant check-in
 
-📄 License
+📄 ##License##
 This project is open-source. You are free to use and modify it for educational purposes
