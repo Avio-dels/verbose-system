@@ -41,8 +41,7 @@ python main.py
    
 ## 📸 Screenshot 
 
- ![Screenshot](Images/Screenshot_20251004-214342.png)
-
+ ![Screenshot](Images/Screenshot_20251004-214342.OneRead.png)
 
 ## 📄 License
 This project is open-source. You are free to use and modify it for educational purposes
