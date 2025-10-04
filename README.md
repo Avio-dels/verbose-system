@@ -43,8 +43,7 @@ python main.py
 
 This project visualizes different sorting algorithms in real-time.
 
-## Screenshot
-![Sorting Visualizer Screenshot](Image/Screenshot_20251004-214342.One Read.png)
+ ![Screenshot](Image/Screenshot_20251004-214342.png)
 
 ## 📄 License
 This project is open-source. You are free to use and modify it for educational purposes
