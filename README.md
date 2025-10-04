@@ -1,4 +1,4 @@
-# Verbose -  🎓 A Face Recognition Based Attendance Monitoring System  
+8# Verbose -  🎓 A Face Recognition Based Attendance Monitoring System  
 
 A **smart attendance system** that uses **face recognition** to mark and store attendance automatically. Built with **Python, OpenCV, and Tkinter**, it provides a user-friendly interface to register students, capture facial data, and update attendance records in real-time.  
 
@@ -38,6 +38,13 @@ python main.py
    -Schools & Colleges for student attendance
    -Offices for employee attendance
    -Events & Conferences for participant check-in
+   
+## 📸 Screenshot 
+
+This project visualizes different sorting algorithms in real-time.
+
+## Screenshot
+![Sorting Visualizer Screenshot](Image/screenshot.png)
 
 ## 📄 License
 This project is open-source. You are free to use and modify it for educational purposes
